@@ -23,7 +23,7 @@ This project is a accordion developed in React, designed to be applied to any ty
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/gabriellazaroni/react-custom-modal.git>
+   git clone <https://github.com/gabriellazaroni/accordion-motion.git>
 
    ```
 
